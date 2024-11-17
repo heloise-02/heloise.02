@@ -3,7 +3,7 @@
 ### 👩🏼‍💻 Sobre mim:
 - 📝 Atualmente estou trabalhando em projetos de Machine Learning e Data Science
 - 📘 Estou aprendendo mais sobre Inteligência Artificial e Deep Learning
-- 🏃🏼‍♀️‍➡️ Iniciando nessa jornada, com o objetivo de me tornar uma profissional de Business Intelligence (BI)
+- 🏃🏼‍♀️ Iniciando nessa jornada, com o objetivo de me tornar uma profissional de Business Intelligence (BI)
 
 ---
 
@@ -26,10 +26,9 @@
 
 ---
 
-<div style="display: flex; justify-content: space-between;">
-  <img src="https://github-readme-stats.vercel.app/api?username=heloise02&show_icons=true&theme=neon" alt="Anurag's GitHub stats" style="width: 48%;">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=heloise02&layout=compact&theme=neon" alt="Top Languages" style="width: 48%;">
+<div align="center">
+  <a href="https://github.com/diegozitto">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=heloise-02&theme=neon&show_icons=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=heloise-02&layout=compact&langs_count=7&theme=neon"/>
+    
 </div>
-
-
-
