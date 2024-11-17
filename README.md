@@ -27,7 +27,7 @@
 ---
 
 <div align="center">
-  <a href="https://github.com/diegozitto">
+  <a href="https://github.com/heloise-02">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=heloise-02&theme=neon&show_icons=true"/>
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=heloise-02&layout=compact&langs_count=7&theme=neon"/>
     
